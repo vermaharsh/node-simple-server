@@ -1,0 +1,22 @@
+{
+  "name": "node-simple-server",
+  "version": "1.0.0",
+  "description": "A simple nodejs server which serves static list of posts through REST interface.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermaharsh/node-simple-server.git"
+  },
+  "author": "Harsh Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vermaharsh/node-simple-server/issues"
+  },
+  "homepage": "https://github.com/vermaharsh/node-simple-server#readme",
+  "dependencies": {
+    "httpdispatcher": "^1.0.0"
+  }
+}
